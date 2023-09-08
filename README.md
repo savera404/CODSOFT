@@ -12,3 +12,8 @@ operations such as addition, subtraction, multiplication, and
 division. Allow the user to input two numbers and choose an
 operation to perform.
 Explanation: This C++ program is a simple calculator. It defines a template function called ArthOperation that takes two numbers and an operator as input. Inside this function, it uses a switch statement to perform basic arithmetic operations based on the provided operator ('+', '-', 'x', or '/'). If the operator is invalid or if the denominator is 0 during division, the program displays an error message and exits. 
+
+Task 3: Build a simple console-based Tic-Tac-Toe game that
+allows two players to play against each other
+Explanation: This is a simple console based tic-tac-toe game that allows two users to play a game of tic-tac-toe. Users can choose the number of the slot they want to occupy. 
+After the game ends (whether in a win or draw) players can choose to replay the game. 
